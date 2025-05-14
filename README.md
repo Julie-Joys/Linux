@@ -1,2 +1,2 @@
 # Linux
-Linux Module of Scalar and much more
+Linux Module of Scaler Academy and much more
