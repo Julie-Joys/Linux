@@ -1,2 +1,4 @@
 # Linux
-Linux Module of Scaler Academy and much more
+This repository contains my personal notes and hands-on learnings from Linux and DevOps.
+## Commands
+1. File navigation
